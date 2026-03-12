@@ -1,0 +1,16 @@
+body{
+    background-color: #51a2ff;
+}
+
+a:link{
+    color: yellow;
+}
+
+a:visited{
+    color: green; 
+}
+    
+h3{
+    color: red;
+    font-size: 24px;
+}
